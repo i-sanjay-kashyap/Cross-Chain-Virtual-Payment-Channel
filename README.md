@@ -1,4 +1,4 @@
-## Cross-chain_Virtual_Payment_Channel-Code
+## Cross-chain Virtual Payment
 
 ### Abstract
 
